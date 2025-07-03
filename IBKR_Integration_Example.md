@@ -18,7 +18,7 @@ This example shows how to:
 
 2. **Python Environment**
    ```bash
-   pip install ib_insync pandas numpy matplotlib
+   pip install ibapi pandas numpy matplotlib
    ```
 
 3. **TWS/Gateway Configuration**

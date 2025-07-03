@@ -139,7 +139,7 @@ Quant_research/
 
 3. **For Interactive Brokers API** (Optional)
    ```bash
-   pip install ib_insync
+   pip install ibapi
    ```
 
 4. **Run Tests**

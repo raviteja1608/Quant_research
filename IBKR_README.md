@@ -25,7 +25,7 @@ The IBKR implementation provides:
 
 #### Python Dependencies
 ```bash
-pip install ib_insync pandas numpy
+pip install ibapi pandas numpy
 ```
 
 ### 2. Setup Interactive Brokers
@@ -278,7 +278,7 @@ The `IBKR_Functions.ipynb` notebook includes comprehensive examples:
 For issues and questions:
 1. Check the troubleshooting section
 2. Review Interactive Brokers API documentation
-3. Check ib_insync documentation
+3. Check Interactive Brokers API documentation
 4. Review the example code
 
 ## Disclaimer

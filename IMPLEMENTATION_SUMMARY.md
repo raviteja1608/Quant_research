@@ -152,7 +152,7 @@ IBKR_Functions
 ## 🔧 Technical Specifications
 
 ### Dependencies
-- **Core**: `ib_insync`, `pandas`, `numpy`
+- **Core**: `ibapi`, `pandas`, `numpy`
 - **Optional**: `matplotlib`, `plotly`, `scipy`
 - **Development**: `pytest`, `black`, `flake8`
 
