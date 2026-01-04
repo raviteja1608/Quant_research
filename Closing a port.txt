@@ -1,0 +1,3 @@
+netstat -ano | findstr :7071
+TCP    127.0.0.1:7071    0.0.0.0:0    LISTENING    48208
+taskkill /PID 48208 /F
